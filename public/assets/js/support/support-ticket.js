@@ -1,0 +1,1 @@
+$((function(n){$(".item-list-scroll").bootstrapNews({newsPerPage:4,autoplay:!0,pauseOnHover:!0,navigation:!1,direction:"down",newsTickerInterval:2500,onToDo:function(){}})}));

@@ -1,0 +1,1 @@
+$((function(e){$("#hr-attendance1").DataTable({rowReorder:!0,columnDefs:[{orderable:!0,className:"reorder",targets:[0,1]},{orderable:!1,targets:"_all"}]});$(".fc-datepicker").datepicker({dateFormat:"dd MM yy",monthNamesShort:["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}),$(".select2").select2({minimumResultsForSearch:1/0,width:"100%"})}));

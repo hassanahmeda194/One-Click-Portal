@@ -1,0 +1,1 @@
+$((function(e){$("#support-customerlist").DataTable({order:[[0,"desc"]],order:[],columnDefs:[{orderable:!1,targets:"_all"},{orderable:!0,targets:[1]}],language:{searchPlaceholder:"Search...",sSearch:""}}),$(".select2").select2({minimumResultsForSearch:1/0,width:"100%"})}));
